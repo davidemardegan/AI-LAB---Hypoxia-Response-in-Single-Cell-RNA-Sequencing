@@ -4,6 +4,8 @@ University group project completed for **AI Lab** at Bocconi University (2026).
 
 **Authors:** Davide Mardegan, Giovanni Mazzi, Ascanio Schena, Arturo Zecchina
 
+**[View the full Jupyter notebook](./AI_LAB_final_report.ipynb)**
+
 ## Overview
 
 This project studies the transcriptional response to **hypoxia** in single-cell RNA sequencing data from the **HCC1806** and **MCF7** breast cancer cell lines, using both **SmartSeq** and **DropSeq** technologies.
@@ -39,5 +41,3 @@ Python · pandas · NumPy · scikit-learn · PyTorch · UMAP · PCA · clusterin
 ## Course context
 
 **AI Lab — Bocconi University, 2026**
-
-This repository is intended as a compact portfolio version of the full university project.
